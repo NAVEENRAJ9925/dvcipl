@@ -1,0 +1,5 @@
+outs:
+- md5: 88aca3ee43250e0d98d666de70d4cdd3
+  size: 3396
+  hash: md5
+  path: ipl_matches.csv
